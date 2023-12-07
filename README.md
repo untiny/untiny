@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Untiny GitHub stats](https://github-readme-stats.vercel.app/api?username=untiny&show_icons=true&bg_color=00000000)
+
 <!--
 **untiny/untiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
